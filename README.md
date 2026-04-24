@@ -1,6 +1,6 @@
 # マイ練習 (MyRenshuu)
 
-A Japanese practice application built in Java using Swing.
+マイ練習 (MyRenshuu) is a Japanese practice application designed to help users immerse themselves in grammar and vocabulary through interactive challenges based on the same textbook material I use in my Japanese studies at SDSU.
 
 # Features
 - Vocabulary Flashcards
